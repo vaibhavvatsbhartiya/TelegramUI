@@ -1,10 +1,8 @@
-Certainly! Here's a basic `README.md` file for your project, "beyondchats-assignment":
-
----
 
 # BeyondChats Assignment
 
 This project is a front-end implementation aimed at creating a user interface inspired by Telegram using React.js. It utilizes modern web development tools and libraries to achieve a responsive and visually appealing chat application interface.
+Open [Live](https://stalwart-macaron-0d8b03.netlify.app/)
 
 ## Features
 
@@ -44,7 +42,7 @@ This project is a front-end implementation aimed at creating a user interface in
    ```
 
    Open [http://localhost:3000](http://localhost:3000) to view the application in your browser.
-
+ 
 4. **Build for production:**
 
    ```bash
